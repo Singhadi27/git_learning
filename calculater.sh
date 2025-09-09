@@ -9,3 +9,6 @@ y=a-b
 
 #This is the multiplication functionality
 z=a*b
+
+#This is the divison functionality
+i=a/b
