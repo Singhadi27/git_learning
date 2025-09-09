@@ -3,3 +3,6 @@
 
 #This is the addition functionality
 x=a+b
+
+#This is the substraction functionality
+y=a-b
