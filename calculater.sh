@@ -6,3 +6,6 @@ x=a+b
 
 #This is the substraction functionality
 y=a-b
+
+#This is the multiplication functionality
+z=a*b
